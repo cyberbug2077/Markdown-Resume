@@ -1,62 +1,57 @@
  <center>
-     <h1>XXX</h1>
+     <h1>徐杰能</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             15603012274
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             nengxuj@qq.com
          </span>
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
+             <a href="https://github.com/cyberbug2077">cyberbug2077</a>
          </span>
      </div>
  </center>
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+ - 求职意向：web全栈 // 前端
+ - 工作经验：0 年
+ - 期望薪资：4k
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+- 学士，华南农业大学，植物保护专业，2016.9~2020.7
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
-
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
-
-   负责 XXX
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- **XXXX 项目**
+- **FullStackOpen 项目**
 
-  *使用到的技术*
+  *react, redux, nodejs, mongoDB*
 
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+  在这个项目中我学会如何搭建一个单页应用，实现了前后端交互，对模块化有了更深的理解。
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+- **The Odin Project 基础部分**
 
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+  *html， css， JavaScript*
+
+  这个项目带我从基本的html页面到写出能够交互的页面。最大的收获还是通过阅读官方文档和技术博客解决问题的能力。
+  
+- **cs61AB**
+
+  *Python，java*
+
+  从语法到算法，从函数到程序，这两门课告诉我程序是如何长出来的，怎么对抗程序的复杂度。两门课的大作业 scheme解释器 和 简易版的git 在开始时都是不敢想象的项目。
+  
+- **深入理解计算机系统**
+
+  *汇编，c*
+  
+  cpu流水线设计，指令集，编译，堆栈，I\O等让我对计算机的认识更加具体了。课程内容比较杂，很多课题都是浅浅涉猎一下。即便如此，几个臭名昭著的lab让我被计算机的魅力折服。
+
